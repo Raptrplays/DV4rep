@@ -1,3 +1,1 @@
-dit is de readme
-
-super cool dit
+Dit kleine project is een portfolio website over Giulia en Tom.
