@@ -30,14 +30,14 @@ footer ul {
     justify-content: center;
     flex-direction: column; 
     color: #FF5F1F;
-  }
+}
   
-  footer ul li {
+footer ul li {
     list-style: none;
-  }
+}
   
-  footer ul li a {
+footer ul li a {
     text-decoration: none;
     color: #FF5F1F;
     font-size: 14px;
-  }
+}

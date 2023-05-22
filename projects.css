@@ -14,7 +14,7 @@ header {
     justify-content: space-around;
 }
 main {
-
+    
 }
 footer{
     background-color: #568076;
@@ -28,12 +28,12 @@ footer ul {
     color: #f58665;
   }
   
-  footer ul li {
+footer ul li {
     list-style: none;
-  }
+}
   
-  footer ul li a {
+footer ul li a {
     text-decoration: none;
     color: #f58665;
     font-size: 14px;
-  }
+}
