@@ -18,5 +18,22 @@ main {
 }
 footer{
     background-color: #568076;
-    
+    text-align: center;
 }
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column; 
+    color: #f58665;
+  }
+  
+  footer ul li {
+    list-style: none;
+  }
+  
+  footer ul li a {
+    text-decoration: none;
+    color: #f58665;
+    font-size: 14px;
+  }
