@@ -20,6 +20,12 @@ header a {
 main {
   text-align: center;
 }
+
+
+img{
+    height: 400px;
+}
+
 footer{
     background-color: #568076;
     text-align: center;
