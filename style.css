@@ -12,3 +12,7 @@ footer{
     height: 200px;
     background-color: #568076;
 }
+
+footer h1 p{
+    color: #f58665;
+}
