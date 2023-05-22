@@ -12,13 +12,22 @@ header {
     background-color: #568076;
     display: flex;
     justify-content: space-around;
+    color: #FF5F1F;
 }
 header a {
     color: #FF5F1F;
 }
+
 main {
-    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
 }
+
+img{
+    height: 400px;
+}
+
 footer{
     background-color: #568076;
     text-align: center;
