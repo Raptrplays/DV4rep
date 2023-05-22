@@ -10,8 +10,12 @@ body {
 header {
     width: 100%;
     background-color: #568076;
+    color:#FF5F1F;
     display: flex;
     justify-content: space-around;
+}
+header a {
+    color: #FF5F1F;
 }
 main {
 
@@ -25,7 +29,7 @@ footer ul {
     display: flex;
     justify-content: center;
     flex-direction: column; 
-    color: #f58665;
+    color: #FF5F1F;
   }
   
   footer ul li {
@@ -34,6 +38,6 @@ footer ul {
   
   footer ul li a {
     text-decoration: none;
-    color: #f58665;
+    color: #FF5F1F;
     font-size: 14px;
   }
