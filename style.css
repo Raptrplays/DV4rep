@@ -2,29 +2,20 @@ body {
     background-color: #AA7F8C;
     margin: 0;
     display: grid;
-    grid-template-columns: 1;
+    grid-template-columns: 100%;
     grid-template-rows: auto 1fr auto;
 }
 header {
     width: 100%;
     height: 200px;
-    grid-row: 1;
     background-color: #568076;
     display: flex;
     justify-content: space-around;
 }
 main {
-    grid-row: 2;
+    
 }
 footer{
-    grid-row: 3;
-    width: 100%;
-    height: 200px;
     background-color: #568076;
-    left: 0;
-    bottom: 0;
-    aaaa
-}
-footer h1 p{
-    color: #f58665;
+    
 }
